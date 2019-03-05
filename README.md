@@ -1,4 +1,4 @@
-# Sample_DH_Resources
+# Sample Digital Humanities Resources
 Highly selected DH resources for Matt Sergi's class  
 **Last Update: 2019-03-05**
 
