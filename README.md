@@ -22,6 +22,7 @@ Compiled by Kathy Chung, 5 March 2019
 - Dictionary of Old English, DOE at U of T https://www.doe.utoronto.ca/pages/index.html
 - Archival websites (museums, art galleries, cultural histories of many sorts)
 - Dollar Street, Gapminder foundation https://www.gapminder.org/dollar-street/matrix –- photographs as data for social economic research, breaking down misconceptions and stereotypes
+- Internet Shakespeare Editions http://internetshakespeare.uvic.ca/
 - Digital Dubliners https://digitaldubliners.com/  -- a student project, digital edition of James Joyce's Dubliners; Boston College, Prof. Joseph Nugent
 - Six Degrees of Francis Bacon http://www.sixdegreesoffrancisbacon.com/
 - Livingston Online http://www.livingstoneonline.org/  -- “a digital museum and library [which] explores the legacy of Victorian traveler David Livingston”
