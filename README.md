@@ -1,6 +1,6 @@
-# 2019-03-05_Sample_DH_Resources
+# Sample_DH_Resources
 Highly selected DH resources for Matt Sergi's class  
-Last Update: 2019-03-05
+**Last Update: 2019-03-05**
 
 ### Anatomy of a REED Record
 -	Go to the REED Online website https://ereed.library.utoronto.ca/
