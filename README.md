@@ -33,6 +33,7 @@ Compiled by Kathy Chung, 5 March 2019
 - Visualizing Venice http://www.visualizingvenice.org/visu/
 - IIIF Showcase https://showcase.iiif.io/
 - Layers of London https://layersoflondon.blogs.sas.ac.uk/
+- Story Maps, Ersi http://storymaps.arcgis.com/en/
 - Visualizing Climate Change https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/08/28/climate-change-switchboard-shows-every-country-on-the-planet-turning-red-hot/?noredirect=on&utm_term=.e8f0448258c5 article about visualization by Antti Lipponen; https://twitter.com/anttilip/status/1033342041474969601  Antti Lipponen’s twitter message showing his visualization and commentary
  
 
