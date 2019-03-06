@@ -1,6 +1,6 @@
 # Sample Digital Humanities Resources
 Highly selected DH resources for Matt Sergi's class  
-**Last Update: 2019-03-05**
+**Last Update: 2019-03-06**
 
 ### Anatomy of a REED Record
 -	Go to the REED Online website https://ereed.library.utoronto.ca/
