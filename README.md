@@ -10,16 +10,17 @@ Highly selected DH resources for Matt Sergi's class
 
 
 ### Some Digital Humanities Resources for Your Exploration
-Compiled by Kathy Chung, 5 March 2019
+Compiled by Kathy Chung, 6 March 2019
 
 #### Samples of Digital Humanities Projects and Programs
 - REED Online https://ereed.library.utoronto.ca/
 - Patrons and Performers https://reed.library.utoronto.ca/
+- Dictionary of Old English, DOE at U of T https://www.doe.utoronto.ca/pages/index.html
+- Digital Tools for Manuscript Studies, UTM https://digitaltoolsmss.library.utoronto.ca/
 - OED Online (something I use almost every day) http://www.oed.com.myaccess.library.utoronto.ca/
 - Oxford Dictionary of National Biography ODNB http://www.oxforddnb.com/
 - History of Parliament Online HPO http://www.historyofparliamentonline.org/
 - Internet Archive https://archive.org/index.php
-- Dictionary of Old English, DOE at U of T https://www.doe.utoronto.ca/pages/index.html
 - Archival websites (museums, art galleries, cultural histories of many sorts)
 - Dollar Street, Gapminder foundation https://www.gapminder.org/dollar-street/matrix –- photographs as data for social economic research, breaking down misconceptions and stereotypes
 - Internet Shakespeare Editions http://internetshakespeare.uvic.ca/
