@@ -10,7 +10,7 @@ Highly selected DH resources for Matt Sergi's class
 
 
 ### Some Digital Humanities Resources for Your Exploration
-Compiled by Kathy Chung, 6 March 2019
+First compiled by Kathy Chung, 5 March 2019
 
 #### Samples of Digital Humanities Projects and Programs
 - REED Online https://ereed.library.utoronto.ca/
