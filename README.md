@@ -1,6 +1,6 @@
 # Sample Digital Humanities Resources
 Highly selected DH resources for Prof. Matt Sergi's undergraduate 
-English medieval drama class, University of Toronto, 6 March 2019.
+English medieval drama class, University of Toronto, 6 March 2019.  
 **Last Update: 2019-07-11**
 
 ### Anatomy of a REED Record
