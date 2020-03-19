@@ -1,18 +1,10 @@
-# Sample Digital Humanities Resources
-Highly selected DH resources for Prof. Matt Sergi's undergraduate 
-English medieval drama class,   
-University of Toronto, 6 March 2019.  
-**Last Update: 2019-07-11**
-
-### Anatomy of a REED Record
--	Go to the REED Online website https://ereed.library.utoronto.ca/
-- Select the “How to” tab
-- Select “Anatomy of a REED Record”
-- Read also the short “Introduction to the Research Process” guide
-
-
-### Some Digital Humanities Resources for Your Exploration
+### Sample Digital Humanities Resources for Your Exploration
+Highly selected DH resources originally complied for Prof. Matt Sergi's undergraduate 
+English medieval drama class, University of Toronto, 6 March 2019.  
 First compiled by Kathy Chung, 5 March 2019
+**Last Update: 2020-03-19**
+
+Background:  This resource was complied by Kathy Chung, Research Associate at the Records of Early English Drama (REED), University of Toronto.  It makes no claim to being comprehensive.  It is maintained now and again when I have time.
 
 #### Samples of Digital Humanities Projects and Programs
 - REED Online https://ereed.library.utoronto.ca/
@@ -55,16 +47,22 @@ First compiled by Kathy Chung, 5 March 2019
 - There are lots of other international DH “summer schools”, “workshops”, etc.
 
 
-#### Sample Organizations, Topics, Tools, Lessons
+#### Sample Organisations, Tools, Lessons
+### Organisations:
 - Text Encoding Initiative https://tei-c.org/
 - Music Encoding Initiative https://music-encoding.org/
 - “GIS,” (Geographic Information System) National Geographic Society https://www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/
+
+### Tools
 - Voyant Tools https://voyant-tools.org/  -- online text analysis tool (Canadian)
 - U of T Map and Data Library homepage https://mdl.library.utoronto.ca/ -- has workshops and tutorials on mapping, data visualization, etc.
-- Programming Historian https://programminghistorian.org/ -- well respected learning website for digital humanities topics
-- W3School Tutorials https://www.w3schools.com/ -- one of many learning sites
 - Story Maps, Ersi http://storymaps.arcgis.com/en/ -- telling stories with maps
 - Omeka.net Showcase https://info.omeka.net/showcase/ -- create your own "exhibit" website
+
+
+### Lessons
+- Programming Historian https://programminghistorian.org/ -- well respected learning website for digital humanities topics
+- W3School Tutorials https://www.w3schools.com/ -- one of many learning sites
 - Search online: “Intro to GIS”
 - Search online: “Intro to text mining”
 - etc.
