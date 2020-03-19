@@ -1,12 +1,17 @@
-### Sample Digital Humanities Resources for Your Exploration
+## Sample Digital Humanities Resources for Your Exploration
 Highly selected DH resources originally complied for Prof. Matt Sergi's undergraduate 
-English medieval drama class, University of Toronto, 6 March 2019.  
-First compiled by Kathy Chung, 5 March 2019
+English medieval drama class, Dept of English, University of Toronto, 6 March 2019.  
+First compiled by Kathy Chung, 5 March 2019  
 **Last Update: 2020-03-19**
 
-Background:  This resource was complied by Kathy Chung, Research Associate at the Records of Early English Drama (REED), University of Toronto.  It makes no claim to being comprehensive.  It is maintained now and again when I have time.
+**Background:**  This resource is complied by me, Kathy Chung, Research Associate at the Records of Early English Drama (REED), University of Toronto.  It makes no claim to being even remotely comprehensive or authoritative.  It's original goal was an easy way to share some of my own discoveries with others and offering to DH "beginners" a glimpse of to what's out there. It is updated now and again when I have time.  (Please let me know if any link is broken and I'll revise as needed.)
 
-#### Samples of Digital Humanities Projects and Programs
+-- K.  
+
+--  
+"You should not lose your self-sufficient state of mind. This does not mean a closed mind, but actually an empty mind and a ready mind. If your mind is empty, it is always ready for anything; it is open to everything. In the beginner's mind there are many possibilities; in the expert's mind there are few." -- Shunryu Suzuki, _Zen Mind, Beginner's Mind_
+
+### Digital Humanities Projects and Programs
 - REED Online https://ereed.library.utoronto.ca/
 - Patrons and Performers https://reed.library.utoronto.ca/
 - Dictionary of Old English, DOE at U of T https://www.doe.utoronto.ca/pages/index.html
@@ -31,7 +36,7 @@ Background:  This resource was complied by Kathy Chung, Research Associate at th
 - Visualizing Climate Change https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/08/28/climate-change-switchboard-shows-every-country-on-the-planet-turning-red-hot/?noredirect=on&utm_term=.e8f0448258c5 article about visualization by Antti Lipponen; https://twitter.com/anttilip/status/1033342041474969601  Antti Lipponen’s twitter message showing his visualization and commentary
  
 
-#### Sample Academic Programmes and Projects
+### Academic Programmes and Projects
 - Digital Humanities Undergrad minor, UT https://wdw.utoronto.ca/digital-humanities
 - DH @ U Guelph https://www.uoguelph.ca/arts/dhguelph
 - DH @ UVic https://www.uvic.ca/humanities/english/research/researchclusters/digital-humanities/index.php
@@ -47,22 +52,26 @@ Background:  This resource was complied by Kathy Chung, Research Associate at th
 - There are lots of other international DH “summer schools”, “workshops”, etc.
 
 
-#### Sample Organisations, Tools, Lessons
-### Organisations:
+### Organisations, Tools, Lessons
+#### Organisations:
 - Text Encoding Initiative https://tei-c.org/
 - Music Encoding Initiative https://music-encoding.org/
 - “GIS,” (Geographic Information System) National Geographic Society https://www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/
 
-### Tools
+#### Tools
 - Voyant Tools https://voyant-tools.org/  -- online text analysis tool (Canadian)
 - U of T Map and Data Library homepage https://mdl.library.utoronto.ca/ -- has workshops and tutorials on mapping, data visualization, etc.
 - Story Maps, Ersi http://storymaps.arcgis.com/en/ -- telling stories with maps
 - Omeka.net Showcase https://info.omeka.net/showcase/ -- create your own "exhibit" website
 
 
-### Lessons
+#### Lessons
 - Programming Historian https://programminghistorian.org/ -- well respected learning website for digital humanities topics
 - W3School Tutorials https://www.w3schools.com/ -- one of many learning sites
 - Search online: “Intro to GIS”
+- The Carpentries https://carpentries.org/ -- umbrella for the following three great organisations.  Check out their online Lessons under the "Lessons" tab on their homepages.
+  - Software Carpentry Workshops https://software-carpentry.org/
+  - Library Carpentry https://librarycarpentry.org/  
+  - Data Carpentry  https://datacarpentry.org/
 - Search online: “Intro to text mining”
 - etc.
