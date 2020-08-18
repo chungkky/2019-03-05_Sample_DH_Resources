@@ -12,18 +12,19 @@ First compiled by Kathy Chung, 5 March 2019
 "You should not lose your self-sufficient state of mind. This does not mean a closed mind, but actually an empty mind and a ready mind. If your mind is empty, it is always ready for anything; it is open to everything. In the beginner's mind there are many possibilities; in the expert's mind there are few." -- Shunryu Suzuki, _Zen Mind, Beginner's Mind_
 
 ### Digital Humanities Projects and Programs
-- REED Online https://ereed.library.utoronto.ca/  
-- Patrons and Performers https://reed.library.utoronto.ca/
-- Early Modern London Theatres (EMLoT) https://emlot.library.utoronto.ca/ -- A bibliographical resource, tracing the lives of documents and citaitons.
+- REED Online https://ereed.library.utoronto.ca/  -- digital database and publishing platform for the Records of Early English Drama's scholarly editions of records containing evidence of performance in England, Scotland, and Wales, pre-1642 (i.e. before the Puritan closing of the English theatres)
+- Patrons and Performers https://reed.library.utoronto.ca/  -- searchable database of touring performers, their patrons, and performance venues found in REED records.
+- Early Modern London Theatres (EMLoT) https://emlot.library.utoronto.ca/ -- A bibliographical resource, tracing the 'after-life' of pre-1642 documents about professional performances in theatres and related venues in London.
 - Dictionary of Old English, DOE at U of T https://www.doe.utoronto.ca/pages/index.html
 - Digital Tools for Manuscript Studies, UTM https://digitaltoolsmss.library.utoronto.ca/
-- OED Online (something I use almost every day) http://www.oed.com.myaccess.library.utoronto.ca/
-- Oxford Dictionary of National Biography ODNB http://www.oxforddnb.com/
-- History of Parliament Online HPO http://www.historyofparliamentonline.org/
+- Oxford English Dictionary (OED) Online http://www.oed.com.myaccess.library.utoronto.ca/  (something I use almost every day) 
+- Oxford Dictionary of National Biography (ODNB) http://www.oxforddnb.com/
+- History of Parliament Online (HPO) http://www.historyofparliamentonline.org/
 - Internet Archive https://archive.org/index.php
 - Livingston Online http://www.livingstoneonline.org/  -- “a digital museum and library [which] explores the legacy of Victorian traveler David Livingston”.  This is one of the best DH project websites I've seen and it's documentation is meticulous. 
-- Van Gogh Letters http://vangoghletters.org/vg/ - I love the column format for multiple views allowing one to see different versions of the letters _side by side_.  Definitely and defiantly not desigend for a cell phone or table.
-- Archival websites (museums, art galleries, cultural histories of many sorts)
+- Van Gogh Letters http://vangoghletters.org/vg/ - I love the column format for multiple views allowing one to see different versions of the letters _side by side_.  Definitely and defiantly not designed for the vertical format and limited screen area of a cell phone or table.
+- Archival websites too many to mention (museums, art galleries, cultural histories of many sorts)
+- Digital Repository of Ireland https://www.dri.ie/
 - Dollar Street, Gapminder foundation https://www.gapminder.org/dollar-street/matrix –- photographs as data for social economic research, breaking down misconceptions and stereotypes
 - Internet Shakespeare Editions http://internetshakespeare.uvic.ca/
 - Digital Dubliners https://digitaldubliners.com/  -- a student project, digital edition of James Joyce's Dubliners; Boston College, Prof. Joseph Nugent
@@ -37,7 +38,7 @@ First compiled by Kathy Chung, 5 March 2019
 - Visualizing Climate Change https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/08/28/climate-change-switchboard-shows-every-country-on-the-planet-turning-red-hot/?noredirect=on&utm_term=.e8f0448258c5 article about visualization by Antti Lipponen; https://twitter.com/anttilip/status/1033342041474969601  Antti Lipponen’s twitter message showing his visualization and commentary
  
 
-### Academic Programmes and Projects
+### Academic Programmes
 - Digital Humanities Undergrad minor, UT https://wdw.utoronto.ca/digital-humanities
 - DH @ U Guelph https://www.uoguelph.ca/arts/dhguelph
 - DH @ UVic https://www.uvic.ca/humanities/english/research/researchclusters/digital-humanities/index.php
@@ -53,17 +54,20 @@ First compiled by Kathy Chung, 5 March 2019
 - There are lots of other international DH “summer schools”, “workshops”, etc.
 
 
-### Organisations, Tools, Lessons
+### Organisations, Tools, Lessons (just a sliver of a view)
 #### Organisations:
 - Text Encoding Initiative https://tei-c.org/
 - Music Encoding Initiative https://music-encoding.org/
 - “GIS,” (Geographic Information System) National Geographic Society https://www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/
+- International Immage Interoperability Framework (IIIF)  https://iiif.io/
+
 
 #### Tools
 - Voyant Tools https://voyant-tools.org/  -- online text analysis tool (Canadian)
 - U of T Map and Data Library homepage https://mdl.library.utoronto.ca/ -- has workshops and tutorials on mapping, data visualization, etc.
 - Story Maps, Ersi http://storymaps.arcgis.com/en/ -- telling stories with maps
 - Omeka.net Showcase https://info.omeka.net/showcase/ -- create your own "exhibit" website
+- Zotero, open source bibliographic and citation management tool  https://www.zotero.org/  -- originally developed by people at the Roy Rosenzweig Center for History and new Media, read their story at: https://rrchnm.org/
 
 
 #### Lessons
