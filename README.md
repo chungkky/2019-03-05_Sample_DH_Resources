@@ -59,7 +59,8 @@ First compiled by Kathy Chung, 5 March 2019
 - Text Encoding Initiative https://tei-c.org/
 - Music Encoding Initiative https://music-encoding.org/
 - “GIS,” (Geographic Information System) National Geographic Society https://www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/
-- International Immage Interoperability Framework (IIIF)  https://iiif.io/
+- International Image Interoperability Framework (IIIF)  https://iiif.io/  
+- World Wide Web Consortium (W3C) https://www.w3.org/ -- where international web standards are made
 
 
 #### Tools
@@ -67,7 +68,7 @@ First compiled by Kathy Chung, 5 March 2019
 - U of T Map and Data Library homepage https://mdl.library.utoronto.ca/ -- has workshops and tutorials on mapping, data visualization, etc.
 - Story Maps, Ersi http://storymaps.arcgis.com/en/ -- telling stories with maps
 - Omeka.net Showcase https://info.omeka.net/showcase/ -- create your own "exhibit" website
-- Zotero, open source bibliographic and citation management tool  https://www.zotero.org/  -- originally developed by people at the Roy Rosenzweig Center for History and new Media, read their story at: https://rrchnm.org/
+- Zotero, open source bibliographic and citation management tool  https://www.zotero.org/  -- originally developed by people at the Roy Rosenzweig Center for History and New Media, read their story at: https://rrchnm.org/ 
 
 
 #### Lessons
