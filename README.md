@@ -12,21 +12,22 @@ First compiled by Kathy Chung, 5 March 2019
 "You should not lose your self-sufficient state of mind. This does not mean a closed mind, but actually an empty mind and a ready mind. If your mind is empty, it is always ready for anything; it is open to everything. In the beginner's mind there are many possibilities; in the expert's mind there are few." -- Shunryu Suzuki, _Zen Mind, Beginner's Mind_
 
 ### Digital Humanities Projects and Programs
-- REED Online https://ereed.library.utoronto.ca/
+- REED Online https://ereed.library.utoronto.ca/  
 - Patrons and Performers https://reed.library.utoronto.ca/
+- Early Modern London Theatres (EMLoT) https://emlot.library.utoronto.ca/ -- A bibliographical resource, tracing the lives of documents and citaitons.
 - Dictionary of Old English, DOE at U of T https://www.doe.utoronto.ca/pages/index.html
 - Digital Tools for Manuscript Studies, UTM https://digitaltoolsmss.library.utoronto.ca/
 - OED Online (something I use almost every day) http://www.oed.com.myaccess.library.utoronto.ca/
 - Oxford Dictionary of National Biography ODNB http://www.oxforddnb.com/
 - History of Parliament Online HPO http://www.historyofparliamentonline.org/
 - Internet Archive https://archive.org/index.php
+- Livingston Online http://www.livingstoneonline.org/  -- “a digital museum and library [which] explores the legacy of Victorian traveler David Livingston”.  This is one of the best DH project websites I've seen and it's documentation is meticulous. 
+- Van Gogh Letters http://vangoghletters.org/vg/ - I love the column format for multiple views allowing one to see different versions of the letters _side by side_.  Definitely and defiantly not desigend for a cell phone or table.
 - Archival websites (museums, art galleries, cultural histories of many sorts)
 - Dollar Street, Gapminder foundation https://www.gapminder.org/dollar-street/matrix –- photographs as data for social economic research, breaking down misconceptions and stereotypes
 - Internet Shakespeare Editions http://internetshakespeare.uvic.ca/
 - Digital Dubliners https://digitaldubliners.com/  -- a student project, digital edition of James Joyce's Dubliners; Boston College, Prof. Joseph Nugent
 - Six Degrees of Francis Bacon http://www.sixdegreesoffrancisbacon.com/
-- Livingston Online http://www.livingstoneonline.org/  -- “a digital museum and library [which] explores the legacy of Victorian traveler David Livingston”
-- Van Gogh Letters http://vangoghletters.org/vg/
 - Open Doomsday http://opendomesday.org/
 - Emily Dickinson Archives http://www.edickinson.org/
 - Shelley-Godwin Archives http://shelleygodwinarchive.org/
