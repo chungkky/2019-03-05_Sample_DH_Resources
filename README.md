@@ -43,7 +43,7 @@ First compiled by Kathy Chung, 5 March 2019
 - DH @ U Guelph https://www.uoguelph.ca/arts/dhguelph
 - DH @ UVic https://www.uvic.ca/humanities/english/research/researchclusters/digital-humanities/index.php
 - Digital Humanities Summer Institute (DHSI), UVic http://www.dhsi.org/courses.php
-- Centre for Digital Humanities, Toronto Metropolitan University (, TMU, formerly Ryerson U) https://www.torontomu.ca/centre-digital-humanities/
+- Centre for Digital Humanities, Toronto Metropolitan University (TMU, formerly Ryerson U) https://www.torontomu.ca/centre-digital-humanities/
 - Digital Humanities Network, Jackman Humanities Institute, UT http://dhn.utoronto.ca/
 - Digital Projects @ McGill https://www.mcgill.ca/digital-humanities/projects
 - U Berkely http://digitalhumanities.berkeley.edu/projects
